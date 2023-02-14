@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop View](.images/screenshots/screenshot-desktop.png)
-![Active States](.images/screenshots/screenshot-active-states.png)
+![Desktop View](./images/screenshots/screenshot-desktop.png)
+![Active States](./images/screenshots/screenshot-active-states.png)
 
 ### Links
 
